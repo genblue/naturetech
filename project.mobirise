@@ -50,7 +50,7 @@
     "uniqCompNum": 57,
     "versionPublish": "5.5.0",
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/nt-logo-dark-gsuite-128x128.png",
     "cssOptimize": false,
     "lazyLoad": false,
     "lazyType": "nothing",
@@ -59,7 +59,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "mbrsiteDomain": "wdljzdnnqm"
   },
   "pages": {
     "index.html": {
