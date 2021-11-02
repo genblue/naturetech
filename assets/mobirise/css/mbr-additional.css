@@ -1398,12 +1398,12 @@ section.popup-builder .modal.mbr-popup button {
   }
 }
 .cid-sMZkqPJmTv .mbr-section-title {
-  color: #dddddd;
+  color: #ffffff;
 }
 .cid-sMZkwoJ0E4 {
   padding-top: 0rem;
   padding-bottom: 6rem;
-  background-color: #282828;
+  background-image: url("../../../assets/images/nt-bkg-1-1920x1280.jpg");
 }
 @media (min-width: 768px) {
   .cid-sMZkwoJ0E4 .no-gutters {
@@ -1467,7 +1467,7 @@ section.popup-builder .modal.mbr-popup button {
 }
 .cid-sMZkwoJ0E4 .card_title,
 .cid-sMZkwoJ0E4 .header_wrap {
-  color: #eae8e4;
+  color: #ffffff;
 }
 .cid-sMZkwoJ0E4 .mbr-text {
   color: #ffffff;
