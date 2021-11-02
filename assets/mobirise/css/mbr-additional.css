@@ -1666,33 +1666,30 @@ section.popup-builder .modal.mbr-popup button {
 .cid-sNAtdyQKyt .card-title {
   color: #282828;
 }
-.cid-sNCxVF8hmL {
+.cid-sNDj5bDemC {
   padding-top: 4rem;
-  padding-bottom: 1rem;
+  padding-bottom: 6rem;
   background-color: #282828;
 }
-.cid-sNCxVF8hmL .mbr-section-subtitle {
+.cid-sNDj5bDemC .mbr-section-subtitle {
   margin-bottom: .75rem;
   line-height: 1;
-  color: #ffffff;
 }
-.cid-sNCxVF8hmL .mbr-text {
+.cid-sNDj5bDemC .mbr-text {
   margin-top: 1.5rem;
   letter-spacing: -0.025rem;
-  color: #ffffff;
-  text-align: left;
 }
 @media (max-width: 767px) {
-  .cid-sNCxVF8hmL .mbr-section-subtitle {
+  .cid-sNDj5bDemC .mbr-section-subtitle {
     margin-bottom: .25rem;
   }
-  .cid-sNCxVF8hmL .mbr-text {
+  .cid-sNDj5bDemC .mbr-text {
     margin-top: .75rem;
   }
 }
-.cid-sNCxVF8hmL .mbr-section-title {
-  color: #ffffff;
+.cid-sNDj5bDemC .mbr-section-title {
   text-align: left;
+  color: #ffffff;
 }
 .cid-sNCyxp0gaG {
   padding-top: 3rem;
